@@ -1,0 +1,16 @@
+train: dataset/images/train
+val: dataset/images/val
+
+nc: 10
+
+names:
+  - bamboo_pit_viper_Venomous
+  - banded_kukri_snake_Non-Venomous
+  - black_headed_snake_Non-Venomous
+  - common_bronzeback_snake_Non-Venomous
+  - common_sand_boa_Non-Venomous
+  - common_vine_snake_Venomous
+  - indian_cobra_Venomous
+  - indian_rock_python_Non-Venomous
+  - ornate_flying_snake_Venomous
+  - russell_s_viper_Venomous
